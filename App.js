@@ -18,7 +18,7 @@ export default function App() {
   if (number) {
     screen = <GameScreen enteredNumber={number} />;
   }
-
+//salam
   return (
     <LinearGradient
       colors={[`${Colors.container}`, `${Colors.orange}`]}
